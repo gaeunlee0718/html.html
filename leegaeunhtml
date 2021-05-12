@@ -11,7 +11,7 @@
 
 6. HTML; 웹페이지를 만드는 코드<p>
 
-<h1><strong><u>애디터</u>란?</h1></strong><p>
+<h1><strong><u>애디터</u>란?</strong></h1><p>
 
 - 코딩을 위해서 필요한 프로그램<p>
 
@@ -20,7 +20,7 @@
   <img src="html.jpg" width="50%"><p>
 
 
-​예) Atom-<p>
+​예) Atom<p>
 
   <h2>사용방법</h2><p>
   1. 실습 파일을 저장할 폴더 생성<p>
@@ -29,12 +29,12 @@
   4. 에디터에서 편집/저장<p>
   5. 웹브라우저 새로고침<p>
 
-<h1><u><strong>테그란?</u></h1></strong>
+<h1><u><strong>테그란?</h1></u></strong>
  - HTML에서 가장 중요하고 기본적인 문법<p>
  - HTML에서 1150개 이상의 태그가 존재함<p>
  - 열리는 태그/닫히는 태그: 구별하기 위해서 /(slash)를 붙임<p><p>
  ​예) <strong>creating web pages</strong><p>
  ​-태그들의 통계: https://www.advancedwebranking.com/html/<p>
 
-<h2>태그의 종류</h2>
+<h1>태그의 종류</h1>
 및줄, 글자 크기, 글자 두께, 줄간 간격, 단락 나누기 등의 여러가지 기능을 하는 기복적인 html 의 문법
